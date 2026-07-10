@@ -95,6 +95,7 @@ LeetCode-Java-DSA
 | 0347 | Top K Frequent Elements | HashMap |
 | 0704 | Binary Search | Binary Search |
 | 0036 | Valid Sudoku | Matrix |
+| 0003 | Longest Substring Without Repeating Characters |
 
 > 🚀 New solutions are added regularly.
 

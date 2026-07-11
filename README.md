@@ -19,9 +19,9 @@
 
 Welcome to my **LeetCode Java DSA Repository**.
 
-This repository contains my daily solutions to LeetCode problems using **Java**. Every solution is organized topic-wise to strengthen my understanding of **Data Structures & Algorithms** while preparing for **Software Development Engineer (SDE-1)** roles.
+This repository contains my daily **LeetCode** solutions using **Java**. Every solution is organized topic-wise to strengthen my understanding of **Data Structures & Algorithms** while preparing for **Software Development Engineer (SDE-1)** roles.
 
-My objective is to build strong problem-solving skills, write clean and optimized code, and maintain consistency through daily practice.
+My goal is to build strong problem-solving skills, write clean and optimized code, and maintain consistency through daily practice.
 
 ---
 
@@ -39,19 +39,28 @@ My objective is to build strong problem-solving skills, write clean and optimize
 
 # 📂 Repository Structure
 
-```
+```text
 LeetCode-Java-DSA
 │
 ├── 01-Arrays
+├── 02-Strings
 ├── 03-HashMap
 ├── 04-Binary-Search
+├── 05-Sliding-Window
+├── 06-Stack
+├── 07-Queue
+├── 08-Linked-List
+├── 09-Trees
+├── 10-Graphs
+├── 11-Dynamic-Programming
+├── 12-Two-Pointers
 ├── 13-Matrix
 │
 ├── README.md
 └── .gitignore
 ```
 
-> More topic folders will be added as I continue solving new problems.
+> New interview problems are added regularly and organized topic-wise.
 
 ---
 
@@ -60,12 +69,12 @@ LeetCode-Java-DSA
 | Topic | Status |
 |--------|:------:|
 | ✅ Arrays | ✔ |
+| ✅ Strings | ✔ |
 | ✅ HashMap | ✔ |
 | ✅ Binary Search | ✔ |
+| ✅ Sliding Window | ✔ |
 | ✅ Matrix | ✔ |
-| ⏳ Strings | Coming Soon |
 | ⏳ Two Pointers | Coming Soon |
-| ⏳ Sliding Window | Coming Soon |
 | ⏳ Stack | Coming Soon |
 | ⏳ Queue | Coming Soon |
 | ⏳ Linked List | Coming Soon |
@@ -81,23 +90,34 @@ LeetCode-Java-DSA
 
 # 🏆 Problems Solved
 
-| Problem No. | Problem | Topic |
-|------------:|---------|-------|
-| 0001 | Two Sum | Arrays |
-| 0056 | Merge Intervals | Arrays |
-| 0121 | Best Time to Buy and Sell Stock | Arrays |
-| 0217 | Contains Duplicate | Arrays |
-| 0238 | Product of Array Except Self | Arrays |
-| 0049 | Group Anagrams | HashMap |
-| 0128 | Longest Consecutive Sequence | HashMap |
-| 0242 | Valid Anagram | HashMap |
-| 0271 | Encode and Decode Strings | HashMap |
-| 0347 | Top K Frequent Elements | HashMap |
-| 0704 | Binary Search | Binary Search |
-| 0036 | Valid Sudoku | Matrix |
-| 0003 | Longest Substring Without Repeating Characters |
+| Problem No. | Problem | Topic | Difficulty |
+|------------:|---------|-------|------------|
+| 0001 | Two Sum | Arrays | Easy |
+| 0056 | Merge Intervals | Arrays | Medium |
+| 0121 | Best Time to Buy and Sell Stock | Arrays | Easy |
+| 0217 | Contains Duplicate | Arrays | Easy |
+| 0238 | Product of Array Except Self | Arrays | Medium |
+| 0049 | Group Anagrams | HashMap | Medium |
+| 0128 | Longest Consecutive Sequence | HashMap | Medium |
+| 0242 | Valid Anagram | HashMap | Easy |
+| 0271 | Encode and Decode Strings | HashMap | Medium |
+| 0347 | Top K Frequent Elements | HashMap | Medium |
+| 0704 | Binary Search | Binary Search | Easy |
+| 0003 | Longest Substring Without Repeating Characters | Sliding Window | Medium |
+| 0567 | Permutation in String | Sliding Window | Medium |
+| 0036 | Valid Sudoku | Matrix | Medium |
 
 > 🚀 New solutions are added regularly.
+
+---
+
+# 📊 Progress
+
+- ✅ Topics Started: **6**
+- ✅ Problems Solved: **14**
+- 🎯 Goal: **300+ LeetCode Problems**
+- ☕ Language: **Java**
+- 🚀 Status: **Actively Learning**
 
 ---
 
@@ -137,11 +157,13 @@ LeetCode-Java-DSA
 
 # ⭐ Repository Highlights
 
-- 📅 Daily Updates
+- 📅 Daily LeetCode Practice
 - 📂 Topic-wise Organization
 - ☕ Java Solutions
 - 📖 Interview Preparation
 - 🚀 Continuous Learning
+- 💻 Clean & Readable Code
+- 📈 GitHub Portfolio Building
 
 ---
 
@@ -155,11 +177,11 @@ LeetCode-Java-DSA
 
 ### 💼 LinkedIn
 
-https://www.linkedin.com/in/saikumarkadiri/
+**https://www.linkedin.com/in/saikumarkadiri/**
 
 ### 💻 GitHub
 
-https://github.com/kadirisaikumar3
+**https://github.com/kadirisaikumar3**
 
 ---
 

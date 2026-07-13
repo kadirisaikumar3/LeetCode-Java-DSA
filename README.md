@@ -107,6 +107,7 @@ LeetCode-Java-DSA
 | 0567 | Permutation in String | Sliding Window | Medium |
 | 0036 | Valid Sudoku | Matrix | Medium |
 | 0076 | Minimum Window Substring | Sliding Window | Hard |
+| 0239 | Sliding Window Maximum | Sliding Window | Hard |
 
 
 > 🚀 New solutions are added regularly.
@@ -116,7 +117,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **6**
-- ✅ Problems Solved: **15**
+- ✅ Problems Solved: **16**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

@@ -74,7 +74,7 @@ LeetCode-Java-DSA
 | ✅ Binary Search | ✔ |
 | ✅ Sliding Window | ✔ |
 | ✅ Matrix | ✔ |
-| ⏳ Two Pointers | Coming Soon |
+| ✅ Two Pointers | ✔ |
 | ⏳ Stack | Coming Soon |
 | ⏳ Queue | Coming Soon |
 | ⏳ Linked List | Coming Soon |
@@ -108,6 +108,7 @@ LeetCode-Java-DSA
 | 0036 | Valid Sudoku | Matrix | Medium |
 | 0076 | Minimum Window Substring | Sliding Window | Hard |
 | 0239 | Sliding Window Maximum | Sliding Window | Hard |
+| 0125 | Valid Palindrome | Two Pointers | Easy |
 
 
 > 🚀 New solutions are added regularly.

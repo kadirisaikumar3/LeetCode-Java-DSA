@@ -109,6 +109,7 @@ LeetCode-Java-DSA
 | 0076 | Minimum Window Substring | Sliding Window | Hard |
 | 0239 | Sliding Window Maximum | Sliding Window | Hard |
 | 0125 | Valid Palindrome | Two Pointers | Easy |
+| 0167 | Two Sum II - Input Array Is Sorted | Two Pointers | Medium |
 
 
 > 🚀 New solutions are added regularly.
@@ -118,7 +119,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **6**
-- ✅ Problems Solved: **16**
+- ✅ Problems Solved: **18**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

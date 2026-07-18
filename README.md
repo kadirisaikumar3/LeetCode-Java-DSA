@@ -110,6 +110,7 @@ LeetCode-Java-DSA
 | 0239 | Sliding Window Maximum | Sliding Window | Hard |
 | 0125 | Valid Palindrome | Two Pointers | Easy |
 | 0167 | Two Sum II - Input Array Is Sorted | Two Pointers | Medium |
+| 0015 | 3Sum | Two Pointers | Medium |
 
 
 > 🚀 New solutions are added regularly.
@@ -118,8 +119,8 @@ LeetCode-Java-DSA
 
 # 📊 Progress
 
-- ✅ Topics Started: **6**
-- ✅ Problems Solved: **18**
+- ✅ Topics Started: **7**
+- ✅ Problems Solved: **20**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

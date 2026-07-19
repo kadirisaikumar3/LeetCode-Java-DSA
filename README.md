@@ -111,7 +111,7 @@ LeetCode-Java-DSA
 | 0125 | Valid Palindrome | Two Pointers | Easy |
 | 0167 | Two Sum II - Input Array Is Sorted | Two Pointers | Medium |
 | 0015 | 3Sum | Two Pointers | Medium |
-
+| 0020 | Valid Parentheses | Stack | Easy |
 
 > 🚀 New solutions are added regularly.
 
@@ -120,7 +120,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **7**
-- ✅ Problems Solved: **20**
+- ✅ Problems Solved: **21**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

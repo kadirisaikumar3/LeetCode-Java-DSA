@@ -112,6 +112,7 @@ LeetCode-Java-DSA
 | 0167 | Two Sum II - Input Array Is Sorted | Two Pointers | Medium |
 | 0015 | 3Sum | Two Pointers | Medium |
 | 0020 | Valid Parentheses | Stack | Easy |
+| 0155 | Min Stack | Stack | Medium |
 
 > 🚀 New solutions are added regularly.
 
@@ -120,7 +121,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **7**
-- ✅ Problems Solved: **21**
+- ✅ Problems Solved: **22**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

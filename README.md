@@ -113,6 +113,7 @@ LeetCode-Java-DSA
 | 0015 | 3Sum | Two Pointers | Medium |
 | 0020 | Valid Parentheses | Stack | Easy |
 | 0155 | Min Stack | Stack | Medium |
+| 0150 | Evaluate Reverse Polish Notation | Stack | Medium |
 
 > 🚀 New solutions are added regularly.
 
@@ -121,7 +122,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **7**
-- ✅ Problems Solved: **22**
+- ✅ Problems Solved: **23**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

@@ -114,6 +114,7 @@ LeetCode-Java-DSA
 | 0020 | Valid Parentheses | Stack | Easy |
 | 0155 | Min Stack | Stack | Medium |
 | 0150 | Evaluate Reverse Polish Notation | Stack | Medium |
+| 0739 | Daily Temperatures | Stack (Monotonic Stack) | Medium |
 
 > 🚀 New solutions are added regularly.
 

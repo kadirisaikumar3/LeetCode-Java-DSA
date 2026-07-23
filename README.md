@@ -115,7 +115,7 @@ LeetCode-Java-DSA
 | 0155 | Min Stack | Stack | Medium |
 | 0150 | Evaluate Reverse Polish Notation | Stack | Medium |
 | 0739 | Daily Temperatures | Stack (Monotonic Stack) | Medium |
-
+| 0084 | Largest Rectangle in Histogram | Stack (Monotonic Stack) | Hard |
 > 🚀 New solutions are added regularly.
 
 ---
@@ -123,7 +123,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **7**
-- ✅ Problems Solved: **23**
+- ✅ Problems Solved: **24**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

@@ -120,6 +120,7 @@ LeetCode-Java-DSA
 | 0853 | Car Fleet          |Stack + Sorting| Medium|
 | 0022 | Generate Parentheses | Backtracking | Medium |
 | 0046 | Permutations | Backtracking | Medium |
+| 0078 | Subsets | Backtracking | Medium |
 
 > 🚀 New solutions are added regularly.
 
@@ -128,7 +129,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **8**
-- ✅ Problems Solved: **24**
+- ✅ Problems Solved: **29**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

@@ -124,6 +124,7 @@ LeetCode-Java-DSA
 | 0090 | Subsets II | Backtracking | Medium |
 | 0039 | Combination Sum | Backtracking | Medium |
 | 0040 | Combination Sum II | Backtracking | Medium |
+| 0079 | Word Search | Backtracking | Medium |
 
 > 🚀 New solutions are added regularly.
 
@@ -132,7 +133,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **8**
-- ✅ Problems Solved: **32**
+- ✅ Problems Solved: **33**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

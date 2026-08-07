@@ -125,6 +125,9 @@ LeetCode-Java-DSA
 | 0039 | Combination Sum | Backtracking | Medium |
 | 0040 | Combination Sum II | Backtracking | Medium |
 | 0079 | Word Search | Backtracking | Medium |
+| 0131 | Palindrome Partitioning | Backtracking | Medium |
+| 051 | NQueens | Backtracking | Hard |
+| 0017 | Letter Combinations of a Phone Number | Backtracking | Medium |
 
 > 🚀 New solutions are added regularly.
 
@@ -133,7 +136,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **8**
-- ✅ Problems Solved: **33**
+- ✅ Problems Solved: **36**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

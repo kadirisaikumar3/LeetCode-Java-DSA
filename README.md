@@ -128,6 +128,7 @@ LeetCode-Java-DSA
 | 0131 | Palindrome Partitioning | Backtracking | Medium |
 | 051 | NQueens | Backtracking | Hard |
 | 0017 | Letter Combinations of a Phone Number | Backtracking | Medium |
+| 0047 | Permutations II | Backtracking | Medium |
 
 > 🚀 New solutions are added regularly.
 
@@ -136,7 +137,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **8**
-- ✅ Problems Solved: **36**
+- ✅ Problems Solved: **37**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

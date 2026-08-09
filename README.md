@@ -129,6 +129,7 @@ LeetCode-Java-DSA
 | 051 | NQueens | Backtracking | Hard |
 | 0017 | Letter Combinations of a Phone Number | Backtracking | Medium |
 | 0047 | Permutations II | Backtracking | Medium |
+| 0037 | Sudoku Solver | Backtracking | Hard |
 
 > 🚀 New solutions are added regularly.
 

@@ -131,6 +131,7 @@ LeetCode-Java-DSA
 | 0047 | Permutations II | Backtracking | Medium |
 | 0037 | Sudoku Solver | Backtracking | Hard |
 | 0212 | Word Search II | Backtracking + Trie | Hard |
+| 0104 | Maximum Depth of Binary Tree | Trees / DFS | Easy |
 
 > 🚀 New solutions are added regularly.
 
@@ -138,8 +139,8 @@ LeetCode-Java-DSA
 
 # 📊 Progress
 
-- ✅ Topics Started: **8**
-- ✅ Problems Solved: **38**
+- ✅ Topics Started: **9**
+- ✅ Problems Solved: **39**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

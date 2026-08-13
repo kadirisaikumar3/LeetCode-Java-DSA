@@ -133,6 +133,7 @@ LeetCode-Java-DSA
 |        0212 | Word Search II                                 | Backtracking + Trie     | Hard       |
 |        0104 | Maximum Depth of Binary Tree                   | Trees / DFS             | Easy       |
 |        0226 | Invert Binary Tree                             | Trees / DFS             | Easy       |
+|        0100 | Same Tree                                      | Trees / DFS             | Easy       |
 
 > 🚀 New solutions are added regularly.
 
@@ -141,7 +142,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **40**
+- ✅ Problems Solved: **41**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

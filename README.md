@@ -136,6 +136,7 @@ LeetCode-Java-DSA
 |        0100 | Same Tree                                      | Trees / DFS             | Easy       |
 |        0101 | Symmetric Tree                                 | Trees / DFS             | Easy       |
 |        0543 | Diameter of Binary Tree                        | Trees / DFS             | Easy       |
+|        0110 | Balanced Binary Tree                           | Trees / DFS             | Easy       |
 
 > 🚀 New solutions are added regularly.
 

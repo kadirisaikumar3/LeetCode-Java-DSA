@@ -137,6 +137,7 @@ LeetCode-Java-DSA
 |        0101 | Symmetric Tree                                 | Trees / DFS             | Easy       |
 |        0543 | Diameter of Binary Tree                        | Trees / DFS             | Easy       |
 |        0110 | Balanced Binary Tree                           | Trees / DFS             | Easy       |
+|        0572 | Subtree of Another Tree                        | Trees / DFS             | Easy       |
 
 > 🚀 New solutions are added regularly.
 
@@ -145,7 +146,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **43**
+- ✅ Problems Solved: **45**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

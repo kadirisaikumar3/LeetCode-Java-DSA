@@ -138,6 +138,7 @@ LeetCode-Java-DSA
 |        0543 | Diameter of Binary Tree                        | Trees / DFS             | Easy       |
 |        0110 | Balanced Binary Tree                           | Trees / DFS             | Easy       |
 |        0572 | Subtree of Another Tree                        | Trees / DFS             | Easy       |
+|        0102 | Binary Tree Level Order Traversal              | Trees / BFS             | Medium     |
 
 > 🚀 New solutions are added regularly.
 

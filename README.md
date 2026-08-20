@@ -140,6 +140,7 @@ LeetCode-Java-DSA
 |        0572 | Subtree of Another Tree                        | Trees / DFS             | Easy       |
 |        0102 | Binary Tree Level Order Traversal              | Trees / BFS             | Medium     |
 |        0103 | Binary Tree Zigzag Level Order Traversal       | Trees / BFS             | Medium     |
+|        0199 | Binary Tree Right Side View                    | Trees / BFS             | Medium     |
 
 > 🚀 New solutions are added regularly.
 
@@ -148,7 +149,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **48**
+- ✅ Problems Solved: **49**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

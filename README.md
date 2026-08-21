@@ -90,57 +90,58 @@ LeetCode-Java-DSA
 
 # 🏆 Problems Solved
 
-| Problem No. | Problem                                        | Topic                   | Difficulty |
-| ----------: | ---------------------------------------------- | ----------------------- | ---------- |
-|        0001 | Two Sum                                        | Arrays                  | Easy       |
-|        0056 | Merge Intervals                                | Arrays                  | Medium     |
-|        0121 | Best Time to Buy and Sell Stock                | Arrays                  | Easy       |
-|        0217 | Contains Duplicate                             | Arrays                  | Easy       |
-|        0238 | Product of Array Except Self                   | Arrays                  | Medium     |
-|        0049 | Group Anagrams                                 | HashMap                 | Medium     |
-|        0128 | Longest Consecutive Sequence                   | HashMap                 | Medium     |
-|        0242 | Valid Anagram                                  | HashMap                 | Easy       |
-|        0271 | Encode and Decode Strings                      | HashMap                 | Medium     |
-|        0347 | Top K Frequent Elements                        | HashMap                 | Medium     |
-|        0704 | Binary Search                                  | Binary Search           | Easy       |
-|        0003 | Longest Substring Without Repeating Characters | Sliding Window          | Medium     |
-|        0567 | Permutation in String                          | Sliding Window          | Medium     |
-|        0036 | Valid Sudoku                                   | Matrix                  | Medium     |
-|        0076 | Minimum Window Substring                       | Sliding Window          | Hard       |
-|        0239 | Sliding Window Maximum                         | Sliding Window          | Hard       |
-|        0125 | Valid Palindrome                               | Two Pointers            | Easy       |
-|        0167 | Two Sum II - Input Array Is Sorted             | Two Pointers            | Medium     |
-|        0015 | 3Sum                                           | Two Pointers            | Medium     |
-|        0020 | Valid Parentheses                              | Stack                   | Easy       |
-|        0155 | Min Stack                                      | Stack                   | Medium     |
-|        0150 | Evaluate Reverse Polish Notation               | Stack                   | Medium     |
-|        0739 | Daily Temperatures                             | Stack (Monotonic Stack) | Medium     |
-|        0084 | Largest Rectangle in Histogram                 | Stack (Monotonic Stack) | Hard       |
-|        0085 | Maximal Rectangle                              | Stack (Monotonic Stack) | Hard       |
-|        0853 | Car Fleet                                      | Stack + Sorting         | Medium     |
-|        0022 | Generate Parentheses                           | Backtracking            | Medium     |
-|        0046 | Permutations                                   | Backtracking            | Medium     |
-|        0078 | Subsets                                        | Backtracking            | Medium     |
-|        0090 | Subsets II                                     | Backtracking            | Medium     |
-|        0039 | Combination Sum                                | Backtracking            | Medium     |
-|        0040 | Combination Sum II                             | Backtracking            | Medium     |
-|        0079 | Word Search                                    | Backtracking            | Medium     |
-|        0131 | Palindrome Partitioning                        | Backtracking            | Medium     |
-|         051 | NQueens                                        | Backtracking            | Hard       |
-|        0017 | Letter Combinations of a Phone Number          | Backtracking            | Medium     |
-|        0047 | Permutations II                                | Backtracking            | Medium     |
-|        0037 | Sudoku Solver                                  | Backtracking            | Hard       |
-|        0212 | Word Search II                                 | Backtracking + Trie     | Hard       |
-|        0104 | Maximum Depth of Binary Tree                   | Trees / DFS             | Easy       |
-|        0226 | Invert Binary Tree                             | Trees / DFS             | Easy       |
-|        0100 | Same Tree                                      | Trees / DFS             | Easy       |
-|        0101 | Symmetric Tree                                 | Trees / DFS             | Easy       |
-|        0543 | Diameter of Binary Tree                        | Trees / DFS             | Easy       |
-|        0110 | Balanced Binary Tree                           | Trees / DFS             | Easy       |
-|        0572 | Subtree of Another Tree                        | Trees / DFS             | Easy       |
-|        0102 | Binary Tree Level Order Traversal              | Trees / BFS             | Medium     |
-|        0103 | Binary Tree Zigzag Level Order Traversal       | Trees / BFS             | Medium     |
-|        0199 | Binary Tree Right Side View                    | Trees / BFS             | Medium     |
+| Problem No. | Problem                                                   | Topic                       | Difficulty |
+| ----------: | --------------------------------------------------------- | --------------------------- | ---------- |
+|        0001 | Two Sum                                                   | Arrays                      | Easy       |
+|        0056 | Merge Intervals                                           | Arrays                      | Medium     |
+|        0121 | Best Time to Buy and Sell Stock                           | Arrays                      | Easy       |
+|        0217 | Contains Duplicate                                        | Arrays                      | Easy       |
+|        0238 | Product of Array Except Self                              | Arrays                      | Medium     |
+|        0049 | Group Anagrams                                            | HashMap                     | Medium     |
+|        0128 | Longest Consecutive Sequence                              | HashMap                     | Medium     |
+|        0242 | Valid Anagram                                             | HashMap                     | Easy       |
+|        0271 | Encode and Decode Strings                                 | HashMap                     | Medium     |
+|        0347 | Top K Frequent Elements                                   | HashMap                     | Medium     |
+|        0704 | Binary Search                                             | Binary Search               | Easy       |
+|        0003 | Longest Substring Without Repeating Characters            | Sliding Window              | Medium     |
+|        0567 | Permutation in String                                     | Sliding Window              | Medium     |
+|        0036 | Valid Sudoku                                              | Matrix                      | Medium     |
+|        0076 | Minimum Window Substring                                  | Sliding Window              | Hard       |
+|        0239 | Sliding Window Maximum                                    | Sliding Window              | Hard       |
+|        0125 | Valid Palindrome                                          | Two Pointers                | Easy       |
+|        0167 | Two Sum II - Input Array Is Sorted                        | Two Pointers                | Medium     |
+|        0015 | 3Sum                                                      | Two Pointers                | Medium     |
+|        0020 | Valid Parentheses                                         | Stack                       | Easy       |
+|        0155 | Min Stack                                                 | Stack                       | Medium     |
+|        0150 | Evaluate Reverse Polish Notation                          | Stack                       | Medium     |
+|        0739 | Daily Temperatures                                        | Stack (Monotonic Stack)     | Medium     |
+|        0084 | Largest Rectangle in Histogram                            | Stack (Monotonic Stack)     | Hard       |
+|        0085 | Maximal Rectangle                                         | Stack (Monotonic Stack)     | Hard       |
+|        0853 | Car Fleet                                                 | Stack + Sorting             | Medium     |
+|        0022 | Generate Parentheses                                      | Backtracking                | Medium     |
+|        0046 | Permutations                                              | Backtracking                | Medium     |
+|        0078 | Subsets                                                   | Backtracking                | Medium     |
+|        0090 | Subsets II                                                | Backtracking                | Medium     |
+|        0039 | Combination Sum                                           | Backtracking                | Medium     |
+|        0040 | Combination Sum II                                        | Backtracking                | Medium     |
+|        0079 | Word Search                                               | Backtracking                | Medium     |
+|        0131 | Palindrome Partitioning                                   | Backtracking                | Medium     |
+|         051 | NQueens                                                   | Backtracking                | Hard       |
+|        0017 | Letter Combinations of a Phone Number                     | Backtracking                | Medium     |
+|        0047 | Permutations II                                           | Backtracking                | Medium     |
+|        0037 | Sudoku Solver                                             | Backtracking                | Hard       |
+|        0212 | Word Search II                                            | Backtracking + Trie         | Hard       |
+|        0104 | Maximum Depth of Binary Tree                              | Trees / DFS                 | Easy       |
+|        0226 | Invert Binary Tree                                        | Trees / DFS                 | Easy       |
+|        0100 | Same Tree                                                 | Trees / DFS                 | Easy       |
+|        0101 | Symmetric Tree                                            | Trees / DFS                 | Easy       |
+|        0543 | Diameter of Binary Tree                                   | Trees / DFS                 | Easy       |
+|        0110 | Balanced Binary Tree                                      | Trees / DFS                 | Easy       |
+|        0572 | Subtree of Another Tree                                   | Trees / DFS                 | Easy       |
+|        0102 | Binary Tree Level Order Traversal                         | Trees / BFS                 | Medium     |
+|        0103 | Binary Tree Zigzag Level Order Traversal                  | Trees / BFS                 | Medium     |
+|        0199 | Binary Tree Right Side View                               | Trees / BFS                 | Medium     |
+|        0105 | Construct Binary Tree from Preorder and Inorder Traversal | Trees / Recursion / HashMap | Medium     |
 
 > 🚀 New solutions are added regularly.
 
@@ -149,7 +150,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **49**
+- ✅ Problems Solved: **50**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

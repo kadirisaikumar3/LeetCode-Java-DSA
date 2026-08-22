@@ -142,6 +142,7 @@ LeetCode-Java-DSA
 |        0103 | Binary Tree Zigzag Level Order Traversal                  | Trees / BFS                 | Medium     |
 |        0199 | Binary Tree Right Side View                               | Trees / BFS                 | Medium     |
 |        0105 | Construct Binary Tree from Preorder and Inorder Traversal | Trees / Recursion / HashMap | Medium     |
+|        0124 | Binary Tree Maximum Path Sum                              | Trees / DFS                 | Hard       |
 
 > 🚀 New solutions are added regularly.
 

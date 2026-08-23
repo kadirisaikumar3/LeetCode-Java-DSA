@@ -143,6 +143,7 @@ LeetCode-Java-DSA
 |        0199 | Binary Tree Right Side View                               | Trees / BFS                 | Medium     |
 |        0105 | Construct Binary Tree from Preorder and Inorder Traversal | Trees / Recursion / HashMap | Medium     |
 |        0124 | Binary Tree Maximum Path Sum                              | Trees / DFS                 | Hard       |
+|        0236 | Lowest Common Ancestor of a Binary Tree                   | Trees / DFS                 | Medium     |
 
 > 🚀 New solutions are added regularly.
 
@@ -151,7 +152,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **50**
+- ✅ Problems Solved: **51**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

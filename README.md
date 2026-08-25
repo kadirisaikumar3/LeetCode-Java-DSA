@@ -145,6 +145,7 @@ LeetCode-Java-DSA
 |        0124 | Binary Tree Maximum Path Sum                              | Trees / DFS                 | Hard       |
 |        0236 | Lowest Common Ancestor of a Binary Tree                   | Trees / DFS                 | Medium     |
 |        0144 | Binary Tree Preorder Traversal                            | Trees / DFS                 | Easy       |
+|        0094 | Binary Tree Inorder Traversal                             | Trees / DFS                 | Easy       |
 
 > 🚀 New solutions are added regularly.
 
@@ -153,7 +154,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **52**
+- ✅ Problems Solved: **523**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

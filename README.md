@@ -147,6 +147,7 @@ LeetCode-Java-DSA
 |        0144 | Binary Tree Preorder Traversal                            | Trees / DFS                 | Easy       |
 |        0094 | Binary Tree Inorder Traversal                             | Trees / DFS                 | Easy       |
 |        0145 | Binary Tree Postorder Traversal                           | Trees / DFS                 | Easy       |
+|        0098 | Validate Binary Search Tree                               | BST / DFS                   | Medium     |
 
 > 🚀 New solutions are added regularly.
 
@@ -155,7 +156,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **54**
+- ✅ Problems Solved: **55**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

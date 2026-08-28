@@ -148,6 +148,7 @@ LeetCode-Java-DSA
 |        0094 | Binary Tree Inorder Traversal                             | Trees / DFS                 | Easy       |
 |        0145 | Binary Tree Postorder Traversal                           | Trees / DFS                 | Easy       |
 |        0098 | Validate Binary Search Tree                               | BST / DFS                   | Medium     |
+|        0230 | Kth Smallest Element in a BST                             | BST / Inorder Traversal     | Medium     |
 
 > 🚀 New solutions are added regularly.
 
@@ -156,7 +157,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **55**
+- ✅ Problems Solved: **56**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

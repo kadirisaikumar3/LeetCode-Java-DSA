@@ -151,6 +151,7 @@ LeetCode-Java-DSA
 |        0230 | Kth Smallest Element in a BST                             | BST / Inorder Traversal     | Medium     |
 |        0701 | Insert into a Binary Search Tree                          | BST / Recursion             | Medium     |
 |        0450 | Delete Node in a BST                                      | BST / Recursion             | Medium     |
+|        0114 | Flatten Binary Tree to Linked List                        | Trees / DFS / Recursion     | Medium     |
 
 > 🚀 New solutions are added regularly.
 
@@ -159,7 +160,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **58**
+- ✅ Problems Solved: **59**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

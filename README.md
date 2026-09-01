@@ -152,6 +152,7 @@ LeetCode-Java-DSA
 |        0701 | Insert into a Binary Search Tree                          | BST / Recursion             | Medium     |
 |        0450 | Delete Node in a BST                                      | BST / Recursion             | Medium     |
 |        0114 | Flatten Binary Tree to Linked List                        | Trees / DFS / Recursion     | Medium     |
+|        0112 | Path Sum                                                  | Trees / DFS / Recursion     | Easy       |
 
 > 🚀 New solutions are added regularly.
 
@@ -160,7 +161,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **59**
+- ✅ Problems Solved: **60**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

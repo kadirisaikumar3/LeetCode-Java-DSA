@@ -153,6 +153,7 @@ LeetCode-Java-DSA
 |        0450 | Delete Node in a BST                                      | BST / Recursion             | Medium     |
 |        0114 | Flatten Binary Tree to Linked List                        | Trees / DFS / Recursion     | Medium     |
 |        0112 | Path Sum                                                  | Trees / DFS / Recursion     | Easy       |
+|        0437 | Path Sum III                                              | Trees / DFS / Prefix Sum    | Medium     |
 
 > 🚀 New solutions are added regularly.
 
@@ -161,7 +162,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **60**
+- ✅ Problems Solved: **61**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

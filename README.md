@@ -155,6 +155,7 @@ LeetCode-Java-DSA
 |        0112 | Path Sum                                                  | Trees / DFS / Recursion     | Easy       |
 |        0437 | Path Sum III                                              | Trees / DFS / Prefix Sum    | Medium     |
 |        0863 | All Nodes Distance K in Binary Tree                       | Trees / BFS / DFS           | Medium     |
+|        0987 | Vertical Order Traversal of a Binary Tree                 | Trees / BFS / DFS / Sorting | Hard       |
 
 > 🚀 New solutions are added regularly.
 
@@ -163,7 +164,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **62**
+- ✅ Problems Solved: **63**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

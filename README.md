@@ -157,7 +157,7 @@ LeetCode-Java-DSA
 |        0863 | All Nodes Distance K in Binary Tree                       | Trees / BFS / DFS           | Medium     |
 |        0987 | Vertical Order Traversal of a Binary Tree                 | Trees / BFS / DFS / Sorting | Hard       |
 |        0662 | Maximum Width of Binary Tree                              | Trees / BFS                 | Medium     |
-
+|        0200 | Number of Islands                                      | Graphs / DFS / Grid Traversal | Medium     |
 > 🚀 New solutions are added regularly.
 
 ---
@@ -165,7 +165,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **64**
+- ✅ Problems Solved: **65**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

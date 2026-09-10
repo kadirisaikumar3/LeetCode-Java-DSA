@@ -160,7 +160,7 @@ LeetCode-Java-DSA
 |        0200 | Number of Islands                                         | Graphs / DFS /Grid Traversal  | Medium     |
 |        0133 | Clone Graph                                               | Graphs / BFS / HashMap        | Medium     |
 |        0733 | Flood Fill                                                | Graphs / DFS / Grid Traversal | Easy       |
-
+|        0695 | Max Area of Island                                    | Graphs / DFS / Grid Traversal | Medium     |
 > 🚀 New solutions are added regularly.
 
 ---
@@ -168,7 +168,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **67**
+- ✅ Problems Solved: **68**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

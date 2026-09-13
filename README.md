@@ -79,7 +79,7 @@ LeetCode-Java-DSA
 | ⏳ Queue               | Coming Soon |
 | ⏳ Linked List         | Coming Soon |
 | ⏳ Trees               | Coming Soon |
-| ⏳ Graphs              | Coming Soon |
+| ✅ Graphs              |      ✔      |
 | ⏳ Heap                | Coming Soon |
 | ⏳ Greedy              | Coming Soon |
 | ⏳ Dynamic Programming | Coming Soon |
@@ -162,6 +162,7 @@ LeetCode-Java-DSA
 |        0733 | Flood Fill                                                | Graphs / DFS / Grid Traversal   | Easy       |
 |        0695 | Max Area of Island                                        | Graphs / DFS / Grid Traversal   | Medium     |
 |        0994 | Rotting Oranges                                           | Graphs / BFS / Multi-Source BFS | Medium     |
+|        0417 | Pacific Atlantic Water Flow                               | Graphs / DFS / Matrix           | Medium     |
 
 > 🚀 New solutions are added regularly.
 
@@ -170,7 +171,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **9**
-- ✅ Problems Solved: **69**
+- ✅ Problems Solved: **70**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

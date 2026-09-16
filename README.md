@@ -78,7 +78,7 @@ LeetCode-Java-DSA
 | ⏳ Stack               | Coming Soon |
 | ⏳ Queue               | Coming Soon |
 | ⏳ Linked List         | Coming Soon |
-| ⏳ Trees               | Coming Soon |
+| ✅ Trees               |      ✔      |
 | ✅ Graphs              |      ✔      |
 | ⏳ Heap                | Coming Soon |
 | ⏳ Greedy              | Coming Soon |
@@ -163,6 +163,9 @@ LeetCode-Java-DSA
 |        0695 | Max Area of Island                                        | Graphs / DFS / Grid Traversal   | Medium     |
 |        0994 | Rotting Oranges                                           | Graphs / BFS / Multi-Source BFS | Medium     |
 |        0417 | Pacific Atlantic Water Flow                               | Graphs / DFS / Matrix           | Medium     |
+|        0210 | Course Schedule II                                        | Graphs / BFS / Topological Sort | Medium     |
+|        0785 | Is Graph Bipartite?                                       | Graphs / BFS / Coloring         | Medium     |
+|        0684 | Redundant Connection                                      | Graphs / Union-Find             | Medium     |
 
 > 🚀 New solutions are added regularly.
 
@@ -170,8 +173,8 @@ LeetCode-Java-DSA
 
 # 📊 Progress
 
-- ✅ Topics Started: **9**
-- ✅ Problems Solved: **70**
+- ✅ Topics Started: **10**
+- ✅ Problems Solved: **73**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

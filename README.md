@@ -102,7 +102,7 @@ LeetCode-Java-DSA
 |        0242 | Valid Anagram                                             | HashMap                         | Easy       |
 |        0271 | Encode and Decode Strings                                 | HashMap                         | Medium     |
 |        0347 | Top K Frequent Elements                                   | HashMap                         | Medium     |
-|        0704 | Binary Search                                             | Binary Search                   | Easy       |
+|        0704 | Binary Search                                                 | Binary Search                   | Easy       |
 |        0003 | Longest Substring Without Repeating Characters            | Sliding Window                  | Medium     |
 |        0567 | Permutation in String                                     | Sliding Window                  | Medium     |
 |        0036 | Valid Sudoku                                              | Matrix                          | Medium     |
@@ -166,6 +166,7 @@ LeetCode-Java-DSA
 |        0210 | Course Schedule II                                        | Graphs / BFS / Topological Sort | Medium     |
 |        0785 | Is Graph Bipartite?                                       | Graphs / BFS / Coloring         | Medium     |
 |        0684 | Redundant Connection                                      | Graphs / Union-Find             | Medium     |
+|        0127 | Word Ladder                                               | Graphs / BFS / Shortest Path    | Hard       |
 
 > 🚀 New solutions are added regularly.
 
@@ -174,7 +175,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **10**
-- ✅ Problems Solved: **73**
+- ✅ Problems Solved: **74**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

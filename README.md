@@ -169,6 +169,7 @@ LeetCode-Java-DSA
 |        0127 | Word Ladder                                               | Graphs / BFS / Shortest Path    | Hard                            |
 |          80 | 0743                                                      | Network Delay Time              | Graphs / Dijkstra               | Medium |
 |          81 | 1584                                                      | Min Cost to Connect All Points  | Graphs / MST / Prim's Algorithm | Medium |
+|          82 | 0787                                                      | Cheapest Flights Within K Stops | Graphs / Shortest Path          | Medium |
 
 > 🚀 New solutions are added regularly.
 
@@ -177,7 +178,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **10**
-- ✅ Problems Solved: **76**
+- ✅ Problems Solved: **77**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

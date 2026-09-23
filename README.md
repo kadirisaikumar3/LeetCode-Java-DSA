@@ -172,7 +172,7 @@ LeetCode-Java-DSA
 |          82 | 0787                                                      | Cheapest Flights Within K Stops | Graphs / Shortest Path          | Medium |
 |          83 | 0752                                                      | Open the Lock                   | Graphs / BFS                    | Medium |
 |          84 | 0997                                                      | Find the Town Judge             | Graphs / In-Degree & Out-Degree | Easy   |
-
+| 85 | 0721 | Accounts Merge | Graphs / Union-Find (DSU) | Medium |
 > 🚀 New solutions are added regularly.
 
 ---
@@ -180,7 +180,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **10**
-- ✅ Problems Solved: **79**
+- ✅ Problems Solved: **80**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

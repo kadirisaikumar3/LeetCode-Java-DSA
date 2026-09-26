@@ -174,6 +174,7 @@ LeetCode-Java-DSA
 |          84 | 0997                                                      | Find the Town Judge             | Graphs / In-Degree & Out-Degree | Easy   |
 |          85 | 0721                                                      | Accounts Merge                  | Graphs / Union-Find (DSU)       | Medium |
 |          86 | 0542                                                      | 01 Matrix                       | Graphs / Multi-Source BFS       | Medium |
+|          87 | 0130                                                      | Surrounded Regions              | Graphs / DFS / Grid Traversal   | Medium |
 
 > 🚀 New solutions are added regularly.
 
@@ -182,7 +183,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **10**
-- ✅ Problems Solved: **81**
+- ✅ Problems Solved: **82**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

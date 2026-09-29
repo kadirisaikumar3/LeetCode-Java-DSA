@@ -177,6 +177,7 @@ LeetCode-Java-DSA
 |          87 | 0130                                                      | Surrounded Regions                | Graphs / DFS / Grid Traversal   | Medium |
 |          88 | 1631                                                      | Path With Minimum Effort          | Graphs / Dijkstra               | Medium |
 |        1192 | Critical Connections in a Network                         | Graphs / DFS / Tarjan's Algorithm | Hard                            |
+|        0207 | Course Schedule                                           | Graphs / DFS / Cycle Detection    | Medium                          |
 
 > 🚀 New solutions are added regularly.
 
@@ -185,7 +186,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **10**
-- ✅ Problems Solved: **84**
+- ✅ Problems Solved: **85**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

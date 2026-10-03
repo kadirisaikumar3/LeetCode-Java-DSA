@@ -181,6 +181,7 @@ LeetCode-Java-DSA
 |        0547 | Number of Provinces                                       | Graphs / DFS / Connected Components | Medium                          |
 |        0399 | Evaluate Division                                         | Graphs / DFS / Weighted Graph       | Medium                          |
 |        0797 | All Paths From Source to Target                           | Graphs / DFS / Backtracking         | Medium                          |
+|        0332 | Reconstruct Itinerary                                     | Graphs / DFS / Eulerian Path        | Hard                            |
 
 > 🚀 New solutions are added regularly.
 

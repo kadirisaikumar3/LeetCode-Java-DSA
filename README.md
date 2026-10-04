@@ -182,6 +182,7 @@ LeetCode-Java-DSA
 |        0399 | Evaluate Division                                         | Graphs / DFS / Weighted Graph       | Medium                          |
 |        0797 | All Paths From Source to Target                           | Graphs / DFS / Backtracking         | Medium                          |
 |        0332 | Reconstruct Itinerary                                     | Graphs / DFS / Eulerian Path        | Hard                            |
+|        0802 | Find Eventual Safe States                                 | Graphs / DFS / Cycle Detection      | Medium                          |        |
 
 > 🚀 New solutions are added regularly.
 
@@ -190,7 +191,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **10**
-- ✅ Problems Solved: **88**
+- ✅ Problems Solved: **89**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

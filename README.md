@@ -184,6 +184,7 @@ LeetCode-Java-DSA
 |        0332 | Reconstruct Itinerary                                     | Graphs / DFS / Eulerian Path        | Hard                            |
 |        0802 | Find Eventual Safe States                                 | Graphs / DFS / Cycle Detection      | Medium                          |        |
 |        1091 | Shortest Path in Binary Matrix                            | Graphs / BFS / Shortest Path        | Medium                          |
+|        1514 | Path with Maximum Probability                             | Graphs / Dijkstra / Max Heap        | Medium                          |
 
 > 🚀 New solutions are added regularly.
 
@@ -192,7 +193,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **10**
-- ✅ Problems Solved: **90**
+- ✅ Problems Solved: **91**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

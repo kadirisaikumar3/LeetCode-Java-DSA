@@ -185,6 +185,7 @@ LeetCode-Java-DSA
 |        0802 | Find Eventual Safe States                                 | Graphs / DFS / Cycle Detection      | Medium                          |        |
 |        1091 | Shortest Path in Binary Matrix                            | Graphs / BFS / Shortest Path        | Medium                          |
 |        1514 | Path with Maximum Probability                             | Graphs / Dijkstra / Max Heap        | Medium                          |
+|        0841 | Keys and Rooms                                            | Graphs / DFS / Graph Traversal      | Medium                          |
 
 > 🚀 New solutions are added regularly.
 
@@ -193,7 +194,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **10**
-- ✅ Problems Solved: **91**
+- ✅ Problems Solved: **92**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**

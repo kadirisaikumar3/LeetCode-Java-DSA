@@ -186,6 +186,7 @@ LeetCode-Java-DSA
 |        1091 | Shortest Path in Binary Matrix                            | Graphs / BFS / Shortest Path        | Medium                          |
 |        1514 | Path with Maximum Probability                             | Graphs / Dijkstra / Max Heap        | Medium                          |
 |        0841 | Keys and Rooms                                            | Graphs / DFS / Graph Traversal      | Medium                          |
+|        0310 | Minimum Height Trees                                      | Graphs / BFS / Topological Thinking | Medium                          |
 
 > 🚀 New solutions are added regularly.
 
@@ -194,7 +195,7 @@ LeetCode-Java-DSA
 # 📊 Progress
 
 - ✅ Topics Started: **10**
-- ✅ Problems Solved: **92**
+- ✅ Problems Solved: **93**
 - 🎯 Goal: **300+ LeetCode Problems**
 - ☕ Language: **Java**
 - 🚀 Status: **Actively Learning**
